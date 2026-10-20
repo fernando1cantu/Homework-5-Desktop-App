@@ -1,6 +1,7 @@
 {
   "name": "homework5",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "chalk": "^6.0.1",
     "prompts": "^2.4.2"
