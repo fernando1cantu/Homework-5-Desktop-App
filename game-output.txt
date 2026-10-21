@@ -1,0 +1,11 @@
+GUESS THE NUMBER!
+Guess a number between 1 and 10.
+You have 3 attempts!
+Attempt 1/3: Enter your guess: 5
+Too high!
+Attempt 2/3: Enter your guess: 2
+Too high!
+Attempt 3/3: Enter your guess: 3
+Too high!
+Game over! The number was 1.
+Game output saved to game-output.txt
